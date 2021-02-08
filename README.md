@@ -15,6 +15,7 @@ Aurora Slime: Cyan/Light-Green colored slime that is found near the Northern Lig
 Lycan Slime: A wolf that hunts for it prey in between the huge pine trees of the forest.<br/>
 Permafrost Slime: A slime covered in ice spikes that hurts to touch.<br/>
 Snowman Slimes: A white colored slime with coal eyes and a carrot nose.<br/>
+Steam Slimes: A dark blue colored gaseous slime that can fly.<br/>
 
 ### New Food
 Mashua: A weird colored oca oca that acts like an odd onion. Favoured by the Aurora Slime.<br/>
@@ -28,7 +29,7 @@ Frozen Terrace (Mountain): Severals hills that lead up to a peak where you can l
 Dry Ice Caves: A really dangerous cold area that is home to the new Permafrost Slimes.<br/>
 Geothermal Pit: An unusually hot pit will be home to mosaic and fire slimes.<br/>
 Archaeologist Paradise: A cave full of frozen slime fossils (that you use the drill to dig for).<br/>
-Hot Springs: A warm pond where you can get the new spring water vaccable, and is home to puddle slimes.<br/>
+Hot Springs: A warm pond where you can get the new spring water vaccable, and is home to puddle and steam slimes.<br/>
 
 # Support Me
 You can follow the mod's development on <a href="https://discord.gg/8Ns83Sydfc" target="_blank">Discord</a>.
