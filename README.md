@@ -12,7 +12,7 @@ When placing an issue please verify if another one is already present or not, if
 ### New Slimes
 So far the slimes that I will be adding are listed here.<br/>
 Aurora Slime: Cyan/Light-Green colored slime that is found near the Northern Lights. Has a secret style that makes it's color blood red.<br/>
-Lycan Slime: A wolf that hunts for it prey in between the huge pine trees of the forest.<br/>
+Lycan Slime: A wolf, often heard of in legends, that hunts for it prey in between the huge pine trees of the forest.<br/>
 Permafrost Slime: A slime covered in ice spikes that hurts to touch.<br/>
 Snowman Slimes: A white colored slime with coal eyes and a carrot nose.<br/>
 Steam Slimes: A dark blue colored gaseous slime that can fly.<br/>
