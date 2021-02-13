@@ -14,6 +14,7 @@ So far the slimes that I will be adding are listed here.<br/>
 Aurora Slime: Cyan/Light-Green colored slime that is found near the Northern Lights. Has a secret style that makes it's color blood red.<br/>
 Lycan Slime: A wolf, often heard of in legends, that hunts for it prey in between the huge pine trees of the forest.<br/>
 Permafrost Slime: A slime covered in ice spikes that hurts to touch.<br/>
+Pine Slime: A slimes that is dark green in color with a pine tree almost the height and width of the slime with a brown stump and dark green leaves on top of it.<br/>
 Snowman Slimes: A white colored slime with coal eyes and a carrot nose.<br/>
 Steam Slimes: A dark blue colored gaseous slime that can fly.<br/>
 
@@ -21,10 +22,12 @@ Steam Slimes: A dark blue colored gaseous slime that can fly.<br/>
 Mashua: A weird colored oca oca that acts like an odd onion. Favoured by the Aurora Slime.<br/>
 Snowy Hen: A grey colored hen hen that resists the cold. Favoured by the Lycan Slime.<br/>
 Chillberry: A blue colored berry. Favoured by the Permafrost Slime.<br/>
-Iceberg Lettuce: Favoured by the Snowman Slimes.<br/>
+Creamfruit: A white melting fruit that disappears faster than other fruits. Favoured by the Snowman Slimes.<br/>
+Lush Lime: Favoured by the Pine Slimes.<br/>
+Airbean: A white and black gradient bean that looks like a wider and shorter carrot. Favoured by the Steam Slimes.<br/>
 
 ### Sub Areas (All within the one snowy forest area)
-Pine Forest: A bunch of huge pine trees that you can climb up that is home to Lycan Slimes and Snowy Hens.<br/>
+Pine Forest: A bunch of huge pine trees that you can climb up that is home to Lycan/Pine Slimes and Snowy Hens.<br/>
 Frozen Terrace (Mountain): Severals hills that lead up to a peak where you can look down on the snowy forest and gives you a good view of the Northern Lights (Aurora slimes will spawn up here).<br/>
 Dry Ice Caves: A really dangerous cold area that is home to the new Permafrost Slimes.<br/>
 Geothermal Pit: An unusually hot pit will be home to mosaic and fire slimes.<br/>
