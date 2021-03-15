@@ -1,4 +1,4 @@
-# Snowy Forest
+# Elior Forest
 <b>This mod is an expansion pack for Slime Rancher. Bringing new content, slimes and a new snowy forest area to the game.</b>
 </p>
 <hr>
@@ -13,18 +13,21 @@ When placing an issue please verify if another one is already present or not, if
 So far the slimes that I will be adding are listed here.<br/>
 Aurora Slime: Cyan/Light-Green colored slime that is found near the Northern Lights. Has a secret style that makes it's color blood red.<br/>
 Lycan Slime: A wolf, often heard of in legends, that hunts for it prey in between the huge pine trees of the forest.<br/>
+Fox Slime: A slime that hides in the snow waiting for prey to walk by. Could be the replacement of the Lycan. Still undecided.<br/>
 Permafrost Slime: A slime covered in ice spikes that hurts to touch.<br/>
 Pine Slime: A slimes that is dark green in color with a pine tree almost the height and width of the slime with a brown stump and dark green leaves on top of it.<br/>
 Snowman Slimes: A white colored slime with coal eyes and a carrot nose.<br/>
 Steam Slimes: A dark blue colored gaseous slime that can fly.<br/>
+Wooly Slimes: A fluffy light blue slime with horns.<br/>
 
 ### New Food
 Mashua: A weird colored oca oca that acts like an odd onion. Favoured by the Aurora Slime.<br/>
-Snowy Hen: A grey colored hen hen that resists the cold. Favoured by the Lycan Slime.<br/>
+Snowy Hen: A grey colored hen hen that resists the cold. Favoured by the Lycan or Fox Slime.<br/>
 Chillberry: A blue colored berry. Favoured by the Permafrost Slime.<br/>
 Creamfruit: A white melting fruit that disappears faster than other fruits. Favoured by the Snowman Slimes.<br/>
 Lush Lime: Favoured by the Pine Slimes.<br/>
 Airbean: A white and black gradient bean that looks like a wider and shorter carrot. Favoured by the Steam Slimes.<br/>
+Floofy Hen: A cute hen hen that has a puff of fur on it's head.<br/>
 
 ### Sub Areas (All within the one snowy forest area)
 Pine Forest: A bunch of huge pine trees that you can climb up that is home to Lycan/Pine Slimes and Snowy Hens.<br/>
